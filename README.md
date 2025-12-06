@@ -1,4 +1,4 @@
-# Node.js Web App --- Учебный мини-проект
+# Node.js Web App - Учебный мини-проект
 
 ![Node
 Badge](https://img.shields.io/badge/Node.js-17%2B-339933?logo=node.js&logoColor=white)\
